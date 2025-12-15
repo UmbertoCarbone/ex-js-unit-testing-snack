@@ -26,3 +26,4 @@ test("test per verifica una stringa in lowercase", () => {
 test("calcolare la media di un array di numeri",() =>{
     expect(average([15,5])).toBe(10)
 })
+.
